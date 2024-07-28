@@ -9,9 +9,8 @@
   < a  href = " https://github.com/pam77777778441 " >
 ##
  
-< div >
-  < a  href = "https://www.linkedin.com/in/p%C3%A2mela-ribeiro-9848a8317/ "  target = " _blank " > 
+  <a href = "https://www.linkedin.com/in/p%C3%A2mela-ribeiro-9848a8317/ "  target = " _blank " > 
  
-  ![ Animação de cobra ] ( https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg )
+  ! [ Animação de cobra ] ( https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg )
  
 </div>
