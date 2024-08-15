@@ -6,11 +6,7 @@
 ## Linguagem de Programação favorita - CSS, JavaScripty
 ## O que estou estudando atualmente ? Html 
 
-< div  align = " centro " >
-  < a  href = " https://github.com/pam77777778441 " >
- 
-  <a href = "https://www.linkedin.com/in/p%C3%A2mela-ribeiro-9848a8317/ "  target = " _blank " > 
- 
+
 
  
 
